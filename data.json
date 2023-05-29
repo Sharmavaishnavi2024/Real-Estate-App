@@ -1,0 +1,39 @@
+[
+    
+    {
+        "name" : "City Sanctuary",
+        "price" : "50,000",
+         "image": "https://www.cthomesllc.com/wp-content/uploads/2015/07/real-estate-investing-methods.jpg"
+    
+     }, 
+     {
+        "name" : "City Sprouts",
+        "price" : "65,000",
+         "image": "https://www.build-review.com/wp-content/uploads/2020/07/luxury-real-estate.jpg"
+     },
+     {
+        "name" : "Garden Glory",
+        "price" : "35,000",
+         "image": "http://www.fortunebuilders.com/wp-content/uploads/2015/07/benefits-of-real-estate.jpg"
+     },
+     {
+        "name" : "City Charmers",
+        "price" : "47,026",
+         "image": "https://static.photocdn.pt/images/articles/2018/11/27/articles/2017_8/best_lenses_for_real_estate.jpg"
+     },
+     {
+        "name" : "Earthly Eden",
+        "price" : "47,345",
+          "image": "https://images.pexels.com/photos/259957/pexels-photo-259957.jpeg?h=350&auto=compress&cs=tinysrgb"
+      },
+      {
+        "name" : "City Scape",
+             "price" : "66,800",
+              "image": "https://tse2.mm.bing.net/th?id=OIP.MqJEETRfjC-r9DTvx5CROgAAAA&pid=Api&P=0&h=180"
+          },
+          {
+             "name" : "Garden City",
+             "price" : "48,026",
+              "image": "https://wallpaperboat.com/wp-content/uploads/2020/10/23/57974/real-estate-10.jpg"
+          }
+]
