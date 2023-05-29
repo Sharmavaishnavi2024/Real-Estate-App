@@ -1,0 +1,31 @@
+.header-colored-section {
+    background-color: $gray;
+}
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin-left: 50rem;
+    gap: 2rem;
+    padding-bottom: 20px
+}
+
+
+
+.headerComponents {
+    margin-top: 5rem;
+    color:antiquewhite;
+}
+
+
+
+
+
+
+
+// @media (min-width: $desktop-breakpoint) {
+//     .header {
+//         margin-bottom: $xl-size;
+//     }
+// }

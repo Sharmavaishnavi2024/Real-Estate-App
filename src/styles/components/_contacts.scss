@@ -1,0 +1,75 @@
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #4e1609;
+    
+}
+
+
+.img {
+    height: 95%;
+    width: 90%;
+    margin-left: 5rem;
+    border-radius: 10px;
+    
+}
+
+.contact-img {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.contacts-content {
+    margin-top: 4rem;
+    margin-right: 10rem;
+}
+
+.contact-title {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-left: 10rem;
+    margin-bottom: 3rem;
+}
+
+.contact-body {
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 7rem;
+    margin-left: 10rem;
+}
+
+.icon-content {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.icons {
+    margin-left: 1rem;
+    color: black;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.contact-modes {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10rem;
+    margin-bottom: 7rem;
+}
+
+.contact-chat-icon:hover {
+    scale:1.025;
+    cursor: pointer;
+    box-shadow: var(--shadow);
+}
+
+.contact-call-icon:hover {
+    scale:1.025;
+    cursor: pointer;
+    box-shadow: var(--shadow);
+}
+

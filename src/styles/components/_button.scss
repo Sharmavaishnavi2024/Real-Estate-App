@@ -1,0 +1,97 @@
+.button {
+    background: $purple;
+    border:none;
+    border-bottom: .5rem solid darken($purple, 10%);
+    color:antiquewhite;
+    font-weight: bold;
+    font-size: $m-size;
+    margin-top: 5rem;
+    width: 12%;
+    
+}
+.searchbar-button {
+    background: $purple;
+    border-bottom: .2rem solid darken($purple, 10%);
+}
+
+.residency-buttons {
+    position: absolute;
+    gap: 1rem;
+    top: -4rem;
+    right: 0;
+    margin-right: 2rem;
+    font-size: 1.5rem;
+    padding: 0.2rem, 0.8rem;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+.residency-buttons>:nth-child(1)
+{
+    background-color: #EEEEFF;
+}
+.residency-buttons>:nth-child(2)
+{
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.25);
+}
+
+
+.contact-button{
+    color: white;
+    background: $purple;
+    height: 10%;
+    width: 30%;
+}
+
+.contact-button:hover {
+    scale:1.025;
+    cursor: pointer;
+    background: darken($purple, 10%);
+}
+
+.submit-button {
+    color: white;
+   margin-left: 55rem;
+   margin-bottom: 3rem;
+   background: $purple;
+   border-bottom: .2rem solid darken($purple, 10%);
+
+}
+
+.submit-button:hover {
+    scale:1.025;
+    cursor: pointer;
+    background: darken($purple, 10%); 
+}
+
+
+
+
+
+
+// .big-button:disabled{
+//     opacity: .5;
+// }
+
+// .button {
+//     background: $purple;
+//     border: none;
+//     border-bottom: .3rem solid darken($purple, 10%);
+//     color: antiquewhite;
+//     font-weight: 500;
+//     padding: $s-size;
+// }
+
+// .button--link{
+//     background: none;
+//     border: none;
+//     color: $off-white;
+//     padding: 0%;
+// }
+
+// @media (min-width: $desktop-breakpoint) {
+//     .big-button {
+//         margin-bottom: $xl-size;
+//     }
+// }

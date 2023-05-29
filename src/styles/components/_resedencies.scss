@@ -1,0 +1,60 @@
+.title {
+    color: #845832;
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-left: 2.5rem;
+    
+}
+
+.short-description {
+    color: #371C4B;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 2.5rem;
+    
+    
+    
+}
+
+.card-detail {
+    color: $purple;
+    font-size:1 rem;
+    font-weight: bold;
+    margin-left:4rem;
+}
+
+.card:hover{
+    scale:1.025;
+    cursor: pointer;
+    background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255,0) 0%,
+        rgba(136,160,255,0.46) 217.91%
+    ) ;
+    box-shadow: 0px 72px 49px -51px rgba(136, 160, 255, 0.21);
+}
+.swiper-horizontal {
+    overflow: visible;
+}
+// .card {
+//     padding: 1rem;
+//     border-radius: 30px;
+//     max-width: max-content;
+//     margin: auto;
+//     transition: all 300ms ease-in-out;
+// }
+
+
+.card-img {
+    height: 65%;
+    width: 55%;
+    margin-left: 4rem;
+    border-radius: 10px;
+    
+}
+.residency {
+    overflow: hidden;
+    position: relative;
+    
+}
+
